@@ -1,4 +1,4 @@
-const ul = document.querySelector("ul");
+ const ul = document.querySelector("ul");
 const button = document.querySelector("button");
 
 button.addEventListener("click", () => {
